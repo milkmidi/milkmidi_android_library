@@ -1,0 +1,4 @@
+include ':app'
+include ':app:libraries:milkmidi_pipi'
+include ':app:libraries:milkmidi_command'
+include ':app:libraries:milkmidi_entity'

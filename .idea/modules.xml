@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_milkmidi.iml" filepath="$PROJECT_DIR$/_milkmidi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/libraries/libraries.iml" filepath="$PROJECT_DIR$/app/libraries/libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/libraries/milkmidi_command/milkmidi_command.iml" filepath="$PROJECT_DIR$/app/libraries/milkmidi_command/milkmidi_command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/libraries/milkmidi_entity/milkmidi_entity.iml" filepath="$PROJECT_DIR$/app/libraries/milkmidi_entity/milkmidi_entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/libraries/milkmidi_pipi/milkmidi_pipi.iml" filepath="$PROJECT_DIR$/app/libraries/milkmidi_pipi/milkmidi_pipi.iml" />
+    </modules>
+  </component>
+</project>
